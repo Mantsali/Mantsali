@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mantsali.sekoli@gmail.com**
 
-- 📄 Check out my professional profile on [https://www.linkedin.com/in/mantsali-nthabiseng-sekoli-a9613193/](https://www.linkedin.com/in/mantsali-nthabiseng-sekoli-a9613193/)
+- 📄 Check out my professional profile on [https://www.linkedin.com/in/mantsali-sekoli/](https://www.linkedin.com/in/mantsali-sekoli/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
