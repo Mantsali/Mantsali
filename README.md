@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mantsali Sekoli</h1>
 <h3 align="center">A passionate :woman_technologist: Software Developer</h3>
 
-- 🔭 I’m currently working on [a phone book web app built using the MERN stack](https://github.com/Mantsali/PhoneBook)
+- 🔭 I’m currently working on [a Data Analysis and ML team project in Python]([https://github.com/Mantsali/2301ACDS_Team_ES5])
 
-- 🌱 I’m currently learning **REACT, Java and NodeJs**
+- 🌱 I’m currently learning **ML, Python and Java**
 
-- :rocket: sI'm looking to advance my skills in **Java and Back-end technologies**
+- :rocket: sI'm looking to advance my skills in **Java and Data Science**
 
 - 📫 How to reach me **mantsali.sekoli@gmail.com**
 
