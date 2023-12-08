@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">I am very enthusiastic about my new adventure :mount_fuji: into Data Science :woman_technologist: and merging my Software Development skills to build data driven applications</h3>
 
-- 🔭 I’m currently working on [a Data Analysis and ML team project in Python as part of the #NemisaHack2023 challenge]([https://github.com/TheUnravellers/NemisaHack])
+- 🔭 I’m currently working on [a Data Analysis and ML team project in Python as part of the #NemisaHack2023 challenge](https://github.com/TheUnravellers/NemisaHack)
 
-- 🔭 I’m also currently working on [imporving my Data Analysis skills on minor data projects]([https://github.com/Mantsali/DataAnalysis])
+- 🔭 I’m also currently working on [imporving my Data Analysis skills on minor data projects](https://github.com/Mantsali/DataAnalysis)
 
 - 🌱 Skills I'm working on improving **ML, Python and Java**
 
